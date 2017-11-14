@@ -33,11 +33,13 @@
    #:file
    #:handle
    #:make-file
+   #:close-file
    #:channels
-   #:sample-rate
+   #:samplerate
    #:bits-per-sample
    #:sample-count
    #:frame-count
    #:read-directly
    #:read-into-vector
-   #:read-to-vector))
+   #:read-to-vector
+   #:seek))

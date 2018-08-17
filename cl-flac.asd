@@ -10,7 +10,9 @@
   :author "Nicolas Hafner <shinmera@tymoon.eu>"
   :maintainer "Nicolas Hafner <shinmera@tymoon.eu>"
   :description "Bindings to libflac, a simple FLAC decoding library"
-  :homepage "https://github.com/Shirakumo/cl-flac"
+  :homepage "https://Shirakumo.github.io/cl-flac/"
+  :bug-tracker "https://github.com/Shirakumo/cl-flac/issues"
+  :source-control (:git "https://github.com/Shirakumo/cl-flac.git")
   :serial T
   :components ((:file "package")
                (:file "low-level")

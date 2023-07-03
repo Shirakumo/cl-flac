@@ -1,14 +1,8 @@
-#|
- This file is a part of cl-flac
- (c) 2017 Shirakumo http://tymoon.eu (shinmera@tymoon.eu)
- Author: Nicolas Hafner <shinmera@tymoon.eu>
-|#
-
 (asdf:defsystem cl-flac
   :version "1.0.0"
   :license "zlib"
-  :author "Nicolas Hafner <shinmera@tymoon.eu>"
-  :maintainer "Nicolas Hafner <shinmera@tymoon.eu>"
+  :author "Yukari Hafner <shinmera@tymoon.eu>"
+  :maintainer "Yukari Hafner <shinmera@tymoon.eu>"
   :description "Bindings to libflac, a simple FLAC decoding library"
   :homepage "https://Shirakumo.github.io/cl-flac/"
   :bug-tracker "https://github.com/Shirakumo/cl-flac/issues"

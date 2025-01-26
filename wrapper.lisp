@@ -21,7 +21,7 @@
     (format stream "~s" (path file))))
 
 (defun make-file (path)
-  (let ((path (uiop:native-namestring path)))
+  (let ((path (pathname-utils:native-namestring path)))
     (cffi:with-foreign-object (handle :pointer)
       (with-error ()
         (cl-flac-cffi:open-file path handle))

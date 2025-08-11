@@ -1,8 +1,8 @@
 ## About cl-flac
-This is a bindings library to [libflac](https://github.com/Shirakumo/libflac), a simple library for decoding FLAC files.
+This is a bindings library to [libflac](https://shirakumo.org/project/libflac), a simple library for decoding FLAC files.
 
 ## How To
-Precompiled versions of the underlying library are included in this. If you want to build it manually however, refer to the [libflac](https://github.com/Shirakumo/libflac) page.
+Precompiled versions of the underlying library are included in this. If you want to build it manually however, refer to the [libflac](https://shirakumo.org/project/libflac) page.
 
 Load the system through ASDF or Quicklisp:
 

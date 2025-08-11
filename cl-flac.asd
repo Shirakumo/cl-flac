@@ -4,9 +4,9 @@
   :author "Yukari Hafner <shinmera@tymoon.eu>"
   :maintainer "Yukari Hafner <shinmera@tymoon.eu>"
   :description "Bindings to libflac, a simple FLAC decoding library"
-  :homepage "https://Shirakumo.github.io/cl-flac/"
-  :bug-tracker "https://github.com/Shirakumo/cl-flac/issues"
-  :source-control (:git "https://github.com/Shirakumo/cl-flac.git")
+  :homepage "https://shirakumo.org/docs/cl-flac/"
+  :bug-tracker "https://shirakumo.org/project/cl-flac/issues"
+  :source-control (:git "https://shirakumo.org/project/cl-flac.git")
   :serial T
   :components ((:file "package")
                (:file "low-level")
